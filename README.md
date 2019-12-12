@@ -3,13 +3,13 @@
 Welcome back! I hope you all had an amazing Winter Break (and didn't make yourselves suffer by working on the Explore task over break....)
 
 Your task is to use Python to:
-1. read in a FASTA file, 
+1. Read in a FASTA file, 
 2. Calculate the GC content (% of the nucleotide sequence that is either G or C) of each gene
 3. Display the gene name with it's GC content. 
 
 Within day_34_assignment.py, you will find an example showing you how to read .txt files in Python. 
 
-This all seems pretty straightforward...but now we're also adding GitHub into the mix!In the file day_34_assignment.py, you'll find a series of questions that walk you through using GitHub. They will rely on content we cover in class. Please answer those questions thoroughly in day_34_assignment.py.
+This all seems pretty straightforward...but now we're also adding GitHub into the mix! In the file day_34_assignment.py, you'll find a series of questions that walk you through using GitHub. The guiding questions will rely on content we cover in class. Please answer those questions thoroughly in day_34_assignment.py.
 
 Oh, and here's a useful reference: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
