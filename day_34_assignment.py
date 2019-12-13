@@ -27,8 +27,9 @@ What does the error message mean? What should you do to push your work to GitHub
 you see your commits? Can you see the history of your edits?
 
 7. Finally, merge the work from your branch 'feature' into the branch 'master'. What
-command do you use to do this? What changes when you look at your work online on GitHub?
-What branch are you on in your command prompt now?
+command do you use to do this? (Hint: switch to the master branch, then type 
+git merge feature, before pushing your changes) What changes when you look at your 
+work online on GitHub?
 '''
 
 def readFASTA(filePath):
