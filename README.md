@@ -9,7 +9,10 @@ Your task is to use Python to:
 
 Within day_34_assignment.py, you will find an example showing you how to read .txt files in Python. 
 
-This all seems pretty straightforward...but now we're also adding GitHub into the mix! In the file day_34_assignment.py, you'll find a series of questions that walk you through using GitHub. The guiding questions will rely on content we cover in class. Please answer those questions thoroughly in day_34_assignment.py.
+This all seems pretty straightforward...but now we're also adding GitHub into the mix! In the file day_34_assignment.py, you'll find a series of questions that walk you through using GitHub. The guiding questions will rely on content we cover in class. Please answer those questions thoroughly in day_34_assignment.py. You should be jumping back-and-forth between your:
+- command prompt,
+- text editor, and
+- browser (with your github activity pulled up).
 
 Oh, and here's a useful reference: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
